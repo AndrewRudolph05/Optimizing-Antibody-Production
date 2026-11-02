@@ -1,0 +1,31 @@
+Batch ID,Condition group,Initial Glucose [mM],Initial Glutamine [mM],Initial VCD [cells/mL],Subset
+1,0,5.0,1.0,200000.0,Development
+2,0,5.0,1.0,200000.0,Development
+19,1,5.0,1.0,1400000.0,Follow-up (previously examined)
+20,1,5.0,1.0,1400000.0,Follow-up (previously examined)
+127,2,5.0,7.0,200000.0,Development
+128,2,5.0,7.0,200000.0,Development
+145,3,5.0,7.0,1400000.0,Development
+146,3,5.0,7.0,1400000.0,Development
+178,4,10.0,2.0,800000.0,Development
+179,4,10.0,2.0,800000.0,Development
+214,5,10.0,4.0,400000.0,Development
+226,6,10.0,4.0,1200000.0,Development
+262,7,10.0,6.0,800000.0,Development
+466,8,20.0,2.0,400000.0,Follow-up (previously examined)
+478,9,20.0,2.0,1200000.0,Development
+514,10,20.0,4.0,800000.0,Development
+515,10,20.0,4.0,800000.0,Development
+550,11,20.0,6.0,400000.0,Development
+562,12,20.0,6.0,1200000.0,Development
+766,13,30.0,2.0,800000.0,Development
+802,14,30.0,4.0,400000.0,Development
+814,15,30.0,4.0,1200000.0,Development
+883,16,35.0,1.0,200000.0,Development
+884,16,35.0,1.0,200000.0,Development
+901,17,35.0,1.0,1400000.0,Development
+902,17,35.0,1.0,1400000.0,Development
+1009,18,35.0,7.0,200000.0,Follow-up (previously examined)
+1010,18,35.0,7.0,200000.0,Follow-up (previously examined)
+1027,19,35.0,7.0,1400000.0,Follow-up (previously examined)
+1028,19,35.0,7.0,1400000.0,Follow-up (previously examined)

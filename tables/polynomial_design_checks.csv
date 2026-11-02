@@ -1,0 +1,16 @@
+Subset,Degree,Distinct conditions,Coefficients,Rank,Rank deficient,Condition number
+All development,2,16,15,15,False,13.422764325865776
+All development,3,16,35,31,True,inf
+All development,Reduced,16,16,16,False,13.422764325865787
+Fold 1 training,2,12,15,15,False,12.229185662761942
+Fold 1 training,3,12,35,27,True,inf
+Fold 1 training,Reduced,12,16,16,False,12.229185662761948
+Fold 2 training,2,12,15,15,False,13.200164865777463
+Fold 2 training,3,12,35,27,True,inf
+Fold 2 training,Reduced,12,16,16,False,13.200164865777463
+Fold 3 training,2,12,15,15,False,26.212588752599178
+Fold 3 training,3,12,35,27,True,inf
+Fold 3 training,Reduced,12,16,16,False,26.212588752599164
+Fold 4 training,2,12,15,15,False,88.05852630064054
+Fold 4 training,3,12,35,27,True,inf
+Fold 4 training,Reduced,12,16,16,False,88.05852630064058

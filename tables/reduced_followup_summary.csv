@@ -1,0 +1,2 @@
+Model,Follow-up batches,RMSE_mean,RMSE_std,R2_mean,Negative predictions,Mean STP gap,Median STP gap,Worst STP gap,Harvest STP MAE,Missed profitable batches
+Reduced polynomial,7,0.11725567026946104,0.038412773695037226,0.09515984486676667,0,8.475473778662787,5.075187969924812,24.66666666666667,9.919867485941458,2
