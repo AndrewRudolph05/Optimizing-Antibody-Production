@@ -12,7 +12,7 @@ This project uses simulated batch culture data to recommend initial glucose, glu
 
 ## Environment
 
-The analysis uses Python with the following libraries. **Replace the version placeholders with the versions from the environment used to generate the results before publishing the final README.**
+The analysis uses Python with the following libraries.
 
 - Python: 3.14.7
 - Matplotlib: 3.11.0
@@ -32,7 +32,7 @@ Run the analysis from the project folder:
 python main.py
 ```
 
-The `datasets/` folder must contain `initial_conditions.csv` and the 30 selected batch files. The program creates `figures/` and `tables/` as needed. The current `environment.yaml` must also be replaced with an actual environment export; it presently contains template text. From the activated environment, run `conda env export > environment.yaml` and remove the machine-specific `prefix:` entry before committing it.
+The datasets/ folder contains initial_conditions.csv and the 30 selected batch files. The program creates figures/ and tables/ as needed. The exported Conda environment and package versions are recorded in environment.yaml.
 
 ## Code Design
 
